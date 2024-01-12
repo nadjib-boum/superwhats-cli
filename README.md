@@ -1,2 +1,2 @@
-install command: npm install
-run command: npm run superwhats
+### install command: npm install
+### run command: npm run superwhats
